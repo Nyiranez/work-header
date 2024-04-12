@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/full-contact-app/static/css/main.ebda93aa.css",
+    "main.js": "/full-contact-app/static/js/main.b86613b6.js",
+    "static/js/453.c4853882.chunk.js": "/full-contact-app/static/js/453.c4853882.chunk.js",
+    "index.html": "/full-contact-app/index.html",
+    "main.ebda93aa.css.map": "/full-contact-app/static/css/main.ebda93aa.css.map",
+    "main.b86613b6.js.map": "/full-contact-app/static/js/main.b86613b6.js.map",
+    "453.c4853882.chunk.js.map": "/full-contact-app/static/js/453.c4853882.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebda93aa.css",
+    "static/js/main.b86613b6.js"
+  ]
+}
