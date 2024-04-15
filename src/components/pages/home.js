@@ -42,7 +42,7 @@ export const Home = () => {
       setFilteredPerson(Persons);
     }
     else {
-      const filtered = filteredperson.filter(user => user.name.includes(value));
+      const filtered = filteredperson.filter((user) => user.name.includes(value));
       setFilteredPerson(filtered);
     }
 
